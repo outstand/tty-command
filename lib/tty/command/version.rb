@@ -2,6 +2,6 @@
 
 module TTY
   class Command
-    VERSION = '0.10.0.pre'
+    VERSION = '0.10.0'
   end # Command
 end # TTY
