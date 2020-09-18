@@ -3,7 +3,7 @@
 require_relative "lib/tty/command/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "tty-command"
+  spec.name          = "outstand-tty-command"
   spec.version       = TTY::Command::VERSION
   spec.authors       = ["Piotr Murach"]
   spec.email         = ["piotr@piotrmurach.com"]
